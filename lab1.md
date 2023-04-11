@@ -9,7 +9,7 @@ The first thing you want to do is download Viurtual Studio Code on your computer
 * I personally like to have my VS code on my taskbar because I use it alot as a Computer Science student, so I pinned it to my taskbar. You can do the same by long pressing the icon after you open it and choosing "pin to taskbar." 
 
 ## Step 2: Remotely Connecting
-![Image](Screenshot(40).png)
+![Image](screenshot2.png)
 
 Now, I was ready to get remote access by logging into a remote computer over the internet.
 * First, if you are using a Windows computer like I am, you will need to install git for Windows. To do so, you want to download git from this link: https://git-scm.com/download/win. I followed the steps on this website https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994. Basically, you open the terminal in VS code by clicking on "terminal" on the top strip and you need to open the command pallete by pressing CTRL + SHIFT + P. Then, type "select default profile" in the search bar, and choose Git Bash as your default. In your terminal, click on the arrow next to the plus sign on the top right. Choose "Git Bash" from the menu. Now, you will have Git Bash be your default terminal. If you have a Macbook, just choose "bash" from the menu as it is already there.
@@ -19,7 +19,7 @@ Now, I was ready to get remote access by logging into a remote computer over the
 * I did not have an issue logging into the remote server, so I then discussed with my partner what this message means and we concluded that it meant we successfully logged in. I noticed that we did not log into the same server, and therefore we concuded the cluster status means how many people logged into each one.
 
 ## Step 3: Trying Some Commands
-![Image](Screenshot(42).png)
+![Image](screenshot3.png)
 
 Finally, I had to try some commands to explore this new remote server. You would want to do the same thing to get familiar with them. 
 I ran these commands and noticed they have different functions as different commands printed different data. 
