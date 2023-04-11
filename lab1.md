@@ -2,6 +2,7 @@
 Hello everyone! This is a short tutorial that will go through the steps needed to be able to log into a course-sepecific account on ieng-6. It will have the exact steps I took, so make sure to follow along then try it on your own. 
 
 ## Step 1: Installing VS Code
+![Image](Screenshot 39.png)
 The first thing you want to do is download Viurtual Studio Code on your computer. If you already have VS code downloaded or you are using your school's computer lab, then you can skip this step. I had to do this step because I got a new computer that didn't have VS code.
 * First, I went to this link https://code.visualstudio.com/ and downloaded the version for windows. If you have an Apple Macbook, then downlaod the version for Apple. After it has installed, click allow to open it. 
 * I personally like to have my VS code on my taskbar because I use it alot as a Computer Science student, so I pinned it to my taskbar. You can do the same by long pressing the icon after you open it and choosing "pin to taskbar." 
