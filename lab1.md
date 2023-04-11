@@ -6,8 +6,9 @@ Hello everyone! This is a short tutorial that will go through the steps needed t
 
 The first thing you want to do is download Viurtual Studio Code on your computer. If you already have VS code downloaded or you are using your school's computer lab, then you can skip this step. I had to do this step because I got a new computer that didn't have VS code.
 * First, I went to this link https://code.visualstudio.com/ and downloaded the version for windows. If you have an Apple Macbook, then downlaod the version for Apple. After it has installed, click allow to open it. 
-* ![Image](screenshot4.png)
 * I personally like to have my VS code on my taskbar because I use it alot as a Computer Science student, so I pinned it to my taskbar. You can do the same by long pressing the icon after you open it and choosing "pin to taskbar." 
+* ![Image](screenshot6.png)
+
 
 ## Step 2: Remotely Connecting
 Now, I was ready to get remote access by logging into a remote computer over the internet.
