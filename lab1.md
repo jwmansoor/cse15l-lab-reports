@@ -30,8 +30,8 @@ I ran these commands and noticed they have different functions as different comm
 * $ `ls -at` printed all files including the hidden files and organized them by time  
 * $ `ls -lat` printed all files with their permissions and organized them by time
 * $ `cat /home/linux/ieng6/cs15lsp23/public/hello.txt` printed "hello.txt"
-* $ `mkdir jennysfolder' made a new directory named "jennysfolder" 
-* $ `touch jennysfile.txt' made a new file (.txt) named "jennysfile" \
+* $ `mkdir jennysfolder` made a new directory named "jennysfolder" 
+* $ `touch jennysfile.txt` made a new file (.txt) named "jennysfile" \
 * $ `rm jennysfolder` deleted the file 
 The last three commands were taken from this [website] (https://phoenixnap.com/kb/linux-ssh-commands).
 
