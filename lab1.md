@@ -33,5 +33,5 @@ I ran these commands and noticed they have different functions as different comm
 * $ `mkdir jennysfolder` made a new directory named "jennysfolder" 
 * $ `touch jennysfile.txt` made a new file (.txt) named "jennysfile" \
 * $ `rm jennysfolder` deleted the file 
-The last three commands were taken from this [website] (https://phoenixnap.com/kb/linux-ssh-commands).
+The last three commands were taken from this [Link](https://phoenixnap.com/kb/linux-ssh-commands).
 
