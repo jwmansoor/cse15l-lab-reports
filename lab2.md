@@ -2,6 +2,19 @@
 
 
 ## Part 1: String Server
-My code for StringServer.java is shown below. I used 
+My code for `StringServer.java` is shown below. I used the docsearch repository as a reference. 
 ![Image](lab2sc7.png)
 ![Image](lab2sc8.png)
+
+Using `/add-message`
+![Image](lab2sc3.png)
+* When I run `StringServer.java`, the methods that get called are: `handleRequest()` and `main()`. Within these methods, other methods get called like `getPath()`, `getQuery()`, `contains()`, `add()`, `join()`, `split()`, `startsWith()`, etc., which are defined by java in the code that we imported. 
+  * The relevant argument to `handleRequest` is a `url` (the url we get when we start the server). 
+  * The relevant argument to `main()` is the `port number` and the `file path` (.txt file). 
+
+![Image](lab2sc4.png)
+
+## Part 2: Bugs
+
+## Part 3: Learning Reflection
+I find that I learn best when I try things myself and do hands-on activities, and that is why I appreciate the labs in this class. In week 2, we did a lab with web servers, which was still pretty new to me. I did not know that I could access in my terminal the same thing I accessed in my browser using the `curl` command. This is cool because sometimes I don't want to go back and forth between my code and browser, so knowing that I can do it right from the command line will help me be more efficient. The `curl` command takes an https: `url` as an argument and prints out what it has access to right in the terminal. It can also load URLs for a server, such as ieng-6. In week 3, I learned alot about debugging and the importance of debugging, which I was not taught before. That will help me get through CSE 12 and the rest of my coding journey. Overall, I learned alot the last two weeks in lab, and the things I described are the ones that stuck out to me the most!
