@@ -270,7 +270,7 @@ jenny@Jennys-MacBook-Pro docsearch % grep -v "e" ./technical/biomed/bcr285.txt
 ![Image](grep--color4.png)
 * This made my search for the prefix '" pre"' really efficient by displaying the lines along with their numbers and emphasizing the `string` we are looking for by changing its color to red. 
 
-**`grep -n --color " love " ./DOCSEARCH`**
+**`grep -r -n --color " love " ./DOCSEARCH`**
 ![Image](grep--color5.png)
 * This combines three modifications and allow us to search for the string easily in the directory `./DOCSEARCH`. 
 
