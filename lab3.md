@@ -158,7 +158,7 @@ jenny@Jennys-MacBook-Pro docsearch %
 
 ## Option 4: 
 **`grep -c "string" file-name.txt`**
-* This option of `grep` prints out the number of occurances of the `string` we are looking for in that file. This can be useful if we are trying to see how many times a `string` appears in the file. 
+* This option of `grep` prints out the number of occurences of the `string` we are looking for in that file. This can be useful if we are trying to see how many times a `string` appears in the file. 
 * Source: [ChatGPT](https://openai.com/blog/chatgpt)\
 
 **Example 1:**
@@ -167,7 +167,7 @@ jenny@Jennys-MacBook-Pro docsearch % grep -c  "the" ./technical/plos/journal.pbi
 155
 ```
 * In this example, I am searching for the number of times the word `"the"` appears in this file. As we can see,`"the"` appears 155 times in this file. 
-* We can use this command to see whether or not a file contains a specifc `string` easily. 
+* We can use this command to see whether or not a file contains a specific `string` easily. 
 
 **Example 2:** 
 ```
@@ -186,15 +186,15 @@ jenny@Jennys-MacBook-Pro docsearch % grep -c  "hello" ./technical/plos/journal.p
 jenny@Jennys-MacBook-Pro docsearch % grep ^B  ./technical/911report/chapter-1.txt
 Boarding the Flights
 ```
-* Here, the command printed out the heading that starts with '"B"' because that is the only line starting with '"B"'.
-* This is the only line that printed because the other lines in the file start with a space character, ' ' or a different character.  
+* Here, the command printed out the heading that starts with `"B"` because that is the only line starting with `"B"`.
+* This is the only line that printed because the other lines in the file start with a space character, ` ` or a different character.  
 
 **Example 2:**
 ```
 jenny@Jennys-MacBook-Pro docsearch % grep ^U  ./technical/911report/chapter-1.txt
 United Airlines Flight 175 
 ```
-* In the same manner, this prionted the heading starting with '"U"'. 
+* In the same manner, this printed the heading starting with '"U"'. 
 
 **`$ grep -v "string" file-name.txt`**
 * This command will give us what's known as an invert output of `grep`, meaning it will print out all of the lines that don't contain the specified `string` in the file. This can be useful if we are trying to find a line that doesn't have the string we want.
@@ -272,5 +272,5 @@ jenny@Jennys-MacBook-Pro docsearch % grep -v "e" ./technical/biomed/bcr285.txt
 
 **`grep -r -n --color " love " ./DOCSEARCH`**
 ![Image](grep--color5.png)
-* This combines three modifications and allow us to search for the string easily in the directory `./DOCSEARCH`. 
+* This combines three modifications and allows us to search for the string easily in the directory `./DOCSEARCH`. 
 
