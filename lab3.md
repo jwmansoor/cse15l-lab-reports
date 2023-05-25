@@ -159,7 +159,7 @@ jenny@Jennys-MacBook-Pro docsearch %
 ## Option 4: 
 **`grep -c "string" file-name.txt`**
 * This option of `grep` prints out the number of occurences of the `string` we are looking for in that file. This can be useful if we are trying to see how many times a `string` appears in the file. 
-* Source: [ChatGPT](https://openai.com/blog/chatgpt)\
+* Source: [ChatGPT](https://openai.com/blog/chatgpt)
 
 **Example 1:**
 ``` 
