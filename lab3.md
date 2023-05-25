@@ -68,14 +68,14 @@ jenny@Jennys-MacBook-Pro docsearch %
 `$ grep --color "tumors" ./technical/biomed/bcr45.txt`
 
 ![Image](grep--color1.png)
-* **Markdown doesn't have a built-in method for changing text colors, so I provided an image of the output in [Visual Studio Code] (https://code.visualstudio.com/) instead of a `code-block`.**
+* **Markdown doesn't have a built-in method for changing text colors, so I provided an image of the output in [Visual Studio Code](https://code.visualstudio.com/) instead of a `code-block`.**
 *  In this example, `grep --color` searches for the string `tumors` in the file `bcr45.txt`, prints out the lines containing it, and changes the color of every string `tumors` to red. This is useful because it makes it easy to see where the `string` we are looking for is exactly located. It basically points out that `string` by changing its color to red. 
  
 **Example 2:**
 
 `$ grep --color "summer" ./technical/plos/journal.pbio.0020053.txt`
 ![Image](grep--color6.png)
-* **Markdown doesn't have a built-in method for changing text colors, so I provided an image of the output in [Visual Studio Code] (https://code.visualstudio.com/) instead of a `code-block`.**
+* **Markdown doesn't have a built-in method for changing text colors, so I provided an image of the output in [Visual Studio Code](https://code.visualstudio.com/) instead of a `code-block`.**
 * Since there is only one line that contains the string `summer` in this file, that line is printed out with `summer` in red. `grep --color` changes the color of the string `summer` to red to make it easier for us to find where it is on that line. This can be very useful when we have multiple lines that contain the `string` we are searching for because it makes it easier to see the exact occurance of it, such as our ouput in example 1.
 
 ## Option 3: 
