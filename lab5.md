@@ -97,7 +97,8 @@ I totally understand where I made the mistake. It is clear that I put in the wro
 
 As for the bash script file, I understand that I had the wrong syntax. I fixed it by looking at my lecture handouts and focused on the spacing. I got the following result like I expected: 
 
-<img width="1015" alt="Screenshot 2023-06-05 at 11 43 52 PM" src="https://github.com/jwmansoor/cse15l-lab-reports/assets/130420272/4c4f8a39-6488-45b3-a017-8e0bc37d2dd3">
+<img width="1016" alt="Screenshot 2023-06-05 at 11 51 04 PM" src="https://github.com/jwmansoor/cse15l-lab-reports/assets/130420272/fafba7de-c759-40d3-a004-df8add3cdf60">
+
 
 ---
 
