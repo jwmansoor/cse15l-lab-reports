@@ -12,11 +12,14 @@ My computer is a Macbook Pro 2022 and the operating system is Mac-OS Ventura 13.
 **Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.**
 
 The output should be a message saying `OK. two tests passed`, signaling that our tests compiled, ran, and passed. I don't understand the error message I am getting instead. I was trying to write a test to check for errors in my method, `reversed` in the ArrayExamples class. However, when I compile and run my code, I keep getting this error message.  It says the location is in the ArrayExamples class, but when I look there I see everything is ok and there is no apparent error in my code. I guess it is because of where I placed my method, because the error says it cannot find the symbol. I guess the symbol it is reffering to is my method. Can you help me fix my code, please? 
+
 <img width="1018" alt="Screenshot 2023-06-05 at 10 52 48 PM" src="https://github.com/jwmansoor/cse15l-lab-reports/assets/130420272/7483ded8-1fb8-4172-b156-d42a53cb4310">
 
 <img width="614" alt="Screenshot 2023-06-05 at 11 47 28 PM" src="https://github.com/jwmansoor/cse15l-lab-reports/assets/130420272/f9b6bcb0-43fe-4389-bf7d-3125a5dcf16a">
 
-Furthermore, in my bash script file, I don't understand why the command in my code is not found. I expected to see it run and print `it was not one` without saying that the `command is not found`. I guess it is because of me typing something in wrong in my `if statement`, but I am not sure. <img width="1013" alt="Screenshot 2023-06-05 at 11 46 48 PM" src="https://github.com/jwmansoor/cse15l-lab-reports/assets/130420272/27fda8b6-079e-4fbc-ab7b-6bcbb983f605">
+Furthermore, in my bash script file, I don't understand why the command in my code is not found. I expected to see it run and print `it was not one` without saying that the `command is not found`. I guess it is because of me typing something in wrong in my `if statement`, but I am not sure. 
+
+<img width="1013" alt="Screenshot 2023-06-05 at 11 46 48 PM" src="https://github.com/jwmansoor/cse15l-lab-reports/assets/130420272/27fda8b6-079e-4fbc-ab7b-6bcbb983f605">
 
 **Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.**
 
