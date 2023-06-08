@@ -25,7 +25,7 @@ Below are the screenshots of recreating the steps 4-9 from lab 7, as well as an 
 
 <img width="641" alt="Screenshot 2023-06-07 at 11 11 20 PM" src="https://github.com/jwmansoor/cse15l-lab-reports/assets/130420272/d3322ab9-e861-48de-a653-fdb57c17620f">
 
-* To view the code in the ListExamples.java file, I accessed the vim command by pressing `<CTRL-R> <v> <enter>`. This time, I searched for the command in my history by clicking `<CTRL-R>`instead of typing it in, because it seemed more efficient to do so. The `vim` command allows me to view the code in the file and edit it if needed (by typing in `<i>` after). 
+* To view the code in the `ListExamples.java` file, I accessed the vim command by pressing `<CTRL-R> <v> <enter>`. This time, I searched for the command in my history by clicking `<CTRL-R>`instead of typing it in, because it seemed more efficient to do so. The `vim` command allows me to view the code in the file and edit it if needed (by typing in `<i>` after). 
 * Then, I pressed `<i>` to activate Insert mode and fix the mistake. 
 * I looked for the blue comment that told me which part needed to be fixed, so then I moved my cursor when I got to the space after the `1` in `index1` and clicked on it with my mouse. I typed `<delete> <2>` to delete the 1 and change it to 2 instead.
 * I pressed `<esc>` to exit insert mode and get back to the normal mode, and `:wq <enter>` to save my edit and exit the code. 
@@ -34,10 +34,10 @@ Below are the screenshots of recreating the steps 4-9 from lab 7, as well as an 
 <img width="427" alt="Screenshot 2023-06-07 at 11 18 32 PM" src="https://github.com/jwmansoor/cse15l-lab-reports/assets/130420272/103e3e1d-d9e4-4563-bcea-b2824379f323">
 
 * I pressed `<up> <up> <enter>` to access and run the `bash test.sh` command. I knew that it was there a few times up in my search history, because I had just run it earlier to check the tests in Step 6. The effect of these few keypresses was that it saved me time. 
-* The `bash test.sh` command runs the tests in that bash file. It showed us that all the tests passed this time. 
+* The `bash test.sh` command runs the tests in that bash file. It showed me that all the tests passed this time. 
 
 ## Step 9: Commmiting + Pushing to my Github Account 
 <img width="542" alt="Screenshot 2023-06-07 at 11 34 25 PM" src="https://github.com/jwmansoor/cse15l-lab-reports/assets/130420272/0ca51b83-2973-4a21-8f7f-1f190bae0142">
 
-* I used the `git ` commands to commit and push my changes to my repository. So, I typed in `git add . <enter>` to add the chnages I made. Then, I typed the command `git commit -m "Yaay, I'm done, final step"` and clicked `<enter>` to commit. The words after `-m` made up my commit message. Lastly, I typed the command `git push` and `<enter>` to push push the resulting change to my Github account. 
+* I used the `git ` commands to commit and push my changes to my repository. So, I typed in `git add . <enter>` to add the changes I made. Then, I typed the command `git commit -m "Yaay, I'm done, final step"` and clicked `<enter>` to commit. The words after `-m` made up my commit message. Lastly, I typed the command `git push` and `<enter>` to push push the resulting change to my Github account. 
 * I see the git commands as my command-line tools, because they make it easy to clone, add, commit, and push. It saves me time and effort. 
